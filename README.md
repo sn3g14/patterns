@@ -1,4 +1,4 @@
-patterns-bridge
+patterns
 ===============
 
 Bridge pattern 
